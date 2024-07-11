@@ -1,0 +1,17 @@
+/*Author    : Sabrino Herfanza Virgiawan*/
+/*Github    : https://github.com/Sabrino Herfanza*/
+/*Facebook  : https://facebook.com/sabrinoherfanza*/
+/*Instagram : https://instagram.com/herfnza*/
+/*Website   : https://virgideveloper.vercel.app*/
+
+@media (min-width: 300px) and (max-width: 640px) {
+    .ml1 {
+        margin-top: 45%;
+    }
+
+    .kontener2 {
+        padding: 10px;
+        text-align: center;
+        margin-top: 60%;
+    }
+}
